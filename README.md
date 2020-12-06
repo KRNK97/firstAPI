@@ -1,7 +1,8 @@
 # first API (FLASK-RESTFUL)
 
 This is my first time creating an 'API' of any sort. I used the Flask-restful module to implement it.
-The data is stored in just a python list in this basic application!
+The data is stored in just a python list in this basic application! 
+( NOTE - There is no authorization in this api, I will add it in a better api implemention using a database! )
 
 ### Packages/ Technologies Used
  - Flask as the frame work
